@@ -1,9 +1,10 @@
-<h1 align="center">Hello 👋, I'm Ahmed_Wagdy_Mohy</h1>
+<h1 align="center">Hi👋, I'm Ahmed Wagdy</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-- 🌱 I’m currently learning **Embedded systems**
 
+
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 📫 How to reach me **ahmedwagdymohy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
