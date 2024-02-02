@@ -5,7 +5,7 @@
 </p> 
 
 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 Embedded SW engineer , Digital Electronics
 - 📫 How to reach me **ahmedwagdymohy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
