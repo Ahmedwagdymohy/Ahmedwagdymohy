@@ -1,4 +1,4 @@
-<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> I'm Ahmed Wagdy Mohy! <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"></h2>
+<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> I'm Ahmed Wagdy Mohy! <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"></h2>
 <img width="250" align="right" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -22,7 +22,6 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedwagdymohy&show_icons=true&locale=en&layout=compact" alt="ahmedwagdymohy" /></p>
-<p><img align="center" src="![242390863-c552be39-25aa-4f5a-8421-54aa11f7131f](https://github.com/user-attachments/assets/16d0bdc0-10cb-4e97-95d0-7b74ec9a8376)
-" alt="ahmedwagdymohy" /></p>
 
+![242390863-c552be39-25aa-4f5a-8421-54aa11f7131f]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/user-attachments/assets/16d0bdc0-10cb-4e97-95d0-7b74ec9a8376))
 
