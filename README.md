@@ -5,7 +5,7 @@
 </p> 
 
 
-- 👨‍💻 Embedded SW engineer , Digital Electronics
+- 👨‍💻 Embedded SW engineer , DevOps CI/CD
 - 📫 How to reach me **ahmedwagdymohy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
