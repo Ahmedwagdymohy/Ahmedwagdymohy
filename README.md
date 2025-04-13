@@ -12,7 +12,7 @@
 
 <img width="250" align="right" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
-- 👨‍💻 Embedded SW engineer, DevOps CI/CD  
+- 👨‍💻  SW engineer, DevOps/SRE CI/CD  
 - 📫 How to reach me **ahmedwagdymohy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
